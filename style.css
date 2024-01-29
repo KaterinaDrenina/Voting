@@ -1,0 +1,21 @@
+.voting-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.emoji img {
+    width: 400px;
+    height: 400px;
+}
+
+.emoji {
+    cursor: pointer;
+    margin: 5px;
+    text-align: center;
+}
+
+.counter {
+    font-size: 100px;
+}
